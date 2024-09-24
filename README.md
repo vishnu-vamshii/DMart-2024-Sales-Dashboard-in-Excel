@@ -1,4 +1,4 @@
-# Dmart Sales 2024 Analysis Dashboard
+# DMart Sales 2024 Analysis Dashboard
 
 🔗 [Dashboard](https://1drv.ms/x/s!AiIL37u6glYHhj1JHUiR-Br1de90?e=ScMbVJ&nav=MTVfe0RBNkExN0IzLThGNjMtNDc3MS1CNTIwLTg5QTlCMTVCNEI5OH0)
 
